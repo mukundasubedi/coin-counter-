@@ -1,0 +1,2 @@
+# coin-counter-
+This machine will be able to sort and count coins by using a mechanism where the coins will be sorted by size and counted every time they fall into their corresponding box. The mechanism will include a DC motor controlled by PWM which will rotate a disk and send the coins to a rail where they will fall because of their varied sizes and will pass through a photo resistor for detection, and finally the number of coins per each box will be displayed on a LCD display so we can know the exact amount counted
